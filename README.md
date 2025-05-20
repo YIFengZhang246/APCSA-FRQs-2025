@@ -1,41 +1,55 @@
-# APCSA-FRQs-2025
+# AP-FRQs-2025
 
-*Solution written by **yi feng***
+*Solution written by **Yi Feng Zhang***
 
-AP-FRQs-2025
+## Introduction
 
-Solutions written by Joshua Hans
+This repository contains my solutions and reflections for the AP Computer Science A exam taken on May 7th 2025. While reviewing the released questions, I found new solutions for certain questions, and fix some mistake I made during the exam itself.
 
-Introduction
+## Preparation
 
-This repository contains my solutions and reflections for the AP Computer Science exam taken on [Date]. While reviewing the released questions, I've documented my approach, insights gained, and areas for future growth.
+In this section I would describe what I did during the last few days toward the AP exam
 
-Exam Experience
+* Watching a course review video
+* Reading csAwesome
+* Reviewing ArrayList
+* Reviewing 2D Array
 
-In this section, I reflect on my overall experience taking the AP Computer Science exam:
+## Exam Experiences
 
-My preparation strategy for the exam included...
-The most challenging aspects of the exam were...
-Time management techniques that worked well for me...
-Mental strategies I used when encountering difficult questions...
+In this section, I will reflect on my feelings and thoughts throughout the exam
+
+*My preparation strategy for the exam included...
+Practicing multiple-choice and free-response questions, reviewing notes, and using past exams.
+
+*The most challenging aspects of the exam were...
+Multi-part free-response questions and applying multiple concepts at once.
+
+*Time management techniques that worked well for me...
+Pacing myself, skipping hard questions to return later, and tracking time per section.
+
+*Mental strategies I used when encountering difficult questions...
+Staying calm, breaking the problem down, and looking for familiar patterns.
+
 Growth Opportunities
+Improve speed and confidence with tricky topics like recursion and object-oriented design.
+
+## Growth Opportunites
 
 Through this review process, I've identified these areas for continued learning:
 
-Topic/Concept 1: [Brief description of what to improve]
-Topic/Concept 2: [Brief description of what to improve]
-Programming practice: [Specific practice goals]
-Resources
+* ArrayList, it was by far the hardest FRQ for me
+* Writing class and method. Overall, I am confident in this topic, but I think I could be even better in this topic
 
-Resources I found helpful during my exam preparation and review:
+## Resources
 
-[Resource name and link]
-[Resource name and link]
-[Resource name and link]
-Future Goals
+* csAwesome: [https://runestone.academy/ns/books/published/csawesome/index.html]
+* Video Break Down: [https://www.youtube.com/watch?v=XB1h9mJIjQc] (For 2026 csA, this video is outdated)
+* Pickcode: [https://pickcode.io]
 
-Moving forward, I plan to:
+## Future Plans
 
-[Specific goal related to computer science learning]
-[Project idea inspired by the exam content]
-[Study strategy for future computer science courses]
+* Continue learning Java
+* Review my knowledge of Github/html & css
+* Get into Machine Learning
+* Projects that involve AI/Machine Learning
