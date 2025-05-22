@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository contains my solutions and reflections for the AP Computer Science A exam taken on May 7th 2025. While reviewing the released questions, I found new solutions for certain questions, and fix some mistake I made during the exam itself.
+This repository contains my solutions and reflections for the AP Computer Science A exam taken on May 7th 2025. While reviewing the released questions, I found new solutions, fixed mistake I made during the exam itself, and expanded on topics I was weak on.
 
 ## Preparation
 
